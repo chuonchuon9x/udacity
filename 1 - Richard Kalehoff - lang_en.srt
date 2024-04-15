@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:03,135
+Now that you've learned to use Git to control the version
+
+2
+00:00:03,135 --> 00:00:05,835
+of both your local and remote repositories,
+
+3
+00:00:05,835 --> 00:00:08,065
+it's time to put your skills to work.
+
+4
+00:00:08,065 --> 00:00:11,040
+In this project, you will simulate the workflow used in
+
+5
+00:00:11,040 --> 00:00:14,895
+industry on the bike share code you completed for the previous project.
+
+6
+00:00:14,895 --> 00:00:18,325
+Now, there will be four main parts to this project.
+
+7
+00:00:18,325 --> 00:00:23,500
+First, you'll set up your repository on both your local machine and then up on GitHub.
+
+8
+00:00:23,500 --> 00:00:28,390
+Then, you'll improve the documentation on a documentation branch.
+
+9
+00:00:28,390 --> 00:00:32,235
+Third, you'll refactor your code on a refactoring branch.
+
+10
+00:00:32,235 --> 00:00:36,965
+The actual part of your code that you choose to refactor for this doesn't really matter.
+
+11
+00:00:36,965 --> 00:00:39,830
+Finally, you'll need to merge all of your branches
+
+12
+00:00:39,830 --> 00:00:43,375
+together and add the changes to the remote repository.
+
+13
+00:00:43,375 --> 00:00:47,030
+The following pages will lead you through this process and inform
+
+14
+00:00:47,030 --> 00:00:51,200
+you about what the guidelines are for submission. Good luck.
+
